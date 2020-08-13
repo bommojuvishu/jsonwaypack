@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jsonway",
-    version="0.0.5",
+    version="1.0.1",
     author="Vishwanath",
     author_email="justvishu91@gmail.com",
     description="complete tool for the JSON",

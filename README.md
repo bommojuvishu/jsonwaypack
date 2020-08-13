@@ -1,4 +1,4 @@
-# Project Title
+# JSONWAY
 
 Jsonway is the one stop to manage the JSON using the python . All the operations can be done using the JSONway .
 
@@ -73,7 +73,11 @@ if you want to set the value at a particular key  then
 ```
 setInDict(dataDict, mapList, value)
 ```
+to find all the keys  values then
 
-
+```
+print(list(findallvalues('title', data)))
+output : ['Sayings of the Century', 'Sword of Honour', 'Moby Dick', 'The Lord of the Rings']
+```
 
 
